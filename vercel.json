@@ -1,6 +1,0 @@
-{
-  "functions": {
-    "api/search.js":  { "memory": 128, "maxDuration": 15 },
-    "api/channel.js": { "memory": 128, "maxDuration": 15 }
-  }
-}
